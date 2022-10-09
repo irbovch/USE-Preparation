@@ -8,4 +8,4 @@ for i1 in t:
                    l.append(i1+i2+i3+i4)
 item = 'НИКА'
 index = l.index(item)
-print ("Ответ:", index)
+print ("Ответ:", index+1)
